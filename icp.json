@@ -1,0 +1,6 @@
+{
+  "ideal_customer": "Companies with 50+ employees, in operations-heavy industries (logistics, healthcare, retail, manufacturing, technology), with a concrete automation need.",
+  "positive_signals": ["stated budget", "stated deadline", "decision-maker title", "comparing vendors", "specific volume or pain"],
+  "negative_signals": ["free email domain", "no company", "fewer than 10 employees", "vague message", "spam"],
+  "tiers": {"hot": "score >= 75: alert a sales rep now", "warm": "score 45-74: nurture sequence", "cold": "score < 45: no outreach, keep for newsletter"}
+}
